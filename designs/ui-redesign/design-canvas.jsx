@@ -1,4 +1,6 @@
 
+/* Vendored from baoyu-design (https://github.com/JimLiu/baoyu-design),
+   MIT License, Copyright (c) 2026 Jim Liu 宝玉. */
 /* BEGIN USAGE */
 // DesignCanvas.jsx — Figma-ish design canvas wrapper
 // Warm gray grid bg + Sections + Artboards + PostIt notes.
